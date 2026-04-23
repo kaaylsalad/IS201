@@ -1,0 +1,36 @@
+body{
+    background-color: rgb(246, 185, 195);
+    border: 5px solid black;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+}
+#elmo{
+    text-align: center;
+    font-weight: bolder;
+    color: rgb(8, 8, 8);
+    margin: 0px;
+    border: 0px;
+    padding-bottom: 35px;
+    padding-top: 50px;
+    font-size: 50px;
+}
+#door{
+    text-align: center;
+    font-size: 35px;
+    color: rgb(8, 8, 8);
+}
+#germany{
+    margin-left: 300px;
+    margin-right: 300px;
+    font-size: 19px;
+    color: rgb(8, 8, 8);
+}
+.grover{
+    display: block;
+    margin: 0 auto;
+}
+.happy{
+    text-align: center;
+}
+.sad{
+    text-align: center;
+}
